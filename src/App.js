@@ -18,7 +18,7 @@ import CustomerEdit from "./components/customer/CustomerEdit";
 function App() {
   return (
     <>
-     <BrowserRouter>
+     <BrowserRouter basename="UTS_FE_MIFTAH">
       <div>
         <Navbar />
         <div>
